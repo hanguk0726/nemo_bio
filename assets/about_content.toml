@@ -1,0 +1,34 @@
+[translations]
+helloText = { eng = "Hello!", kor = "안녕하세요!" }
+emailText = "hanguk0726@gmail.com"
+githubText = "github.com/hanguk0726"
+interestedText = { eng = "I am currently interested in rust.", kor = "저는 현재 rust에 관심을 갖고 있습니다." }
+backgroundText = { eng = "I have a background of kotlin, flutter, mainly.", kor = "저는 kotlin과 flutter 경험을 배경으로 갖고있습니다." }
+projectText = { eng = '''Check out my latest project Avartar vision,
+which is a video diary app written in flutter and rust without ffmpeg.''', kor ='''ffmpeg 없이 flutter와 rust로 만든 영상일기 앱,
+제 최신 프로젝트 Avartar vision을 확인해보세요.''' }
+linkText = "https://github.com/hanguk0726/Avatar-Vision"
+experienceText = { eng = "Experience", kor = "경력" }
+togiText = { eng = "Togi", kor = "토기" }
+yeouidoText = { eng = "Yeouido, Seoul", kor = "서울 여의도" }
+androidDevText = { eng = "Android developer", kor = "안드로이드 개발자" }
+snaptagText = { eng = "Snaptag", kor = "스냅태그" }
+pangyoText = { eng = "Pangyo, Gyeonggi", kor = "경기 판교" }
+backendDevText = { eng = "Android developer, Backend developer", kor = "안드로이드 개발자, 백엔드 개발자" }
+bootcampText = { eng = "Boot camp", kor = "부트캠프" }
+seochoguText = { eng = "Seocho-gu, Seoul", kor = "서울 서초구" }
+jongnosamgaText = { eng = "Jongno sam-ga, Seoul", kor = "서울 종로삼가" }
+cloundText = { eng = "Clound", kor = "클라우드" }
+krpaText = { eng = "korea Radio Promotion Association", kor = "한국전파진흥협회" }
+javaWebText = { eng = "Java Web", kor = "자바 웹" }
+tjoeunAcademyText = { eng = "Tjoeun Academy", kor = "더조은 아카데미" }
+educationText = { eng = "Education", kor = "교육" }
+uiducText = { eng = "Uiduc university", kor = "위덕 대학교" }
+gyongjuText = { eng = "Gyeongju, Gyeongsangbuk-do", kor = "경상북도 경주" }
+collegeText = { eng = "Some College, Information and Communication Engineering", kor = "정보통신공학과 중퇴" }
+englishText = { eng = "English", kor = "영어" }
+torontoText = { eng = "Toronto, Canada", kor = "캐나다 토론토" }
+efText = { eng = "EF language school", kor = "EF 어학원" }
+osakaText = { eng = "Osaka, Japan", kor = "일본 오사카" }
+japaneseText = { eng = "Japanese", kor = "일본어" }
+mericText = { eng = "Meric japanese school", kor = "메릭 일본어 학원" }
