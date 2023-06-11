@@ -8,6 +8,9 @@ projectText = { eng = '''Check out my latest project Avartar vision,
 which is a video diary app written in flutter and rust without ffmpeg.''', kor ='''ffmpeg 없이 flutter와 rust로 만든 영상일기 앱,
 제 최신 프로젝트 Avartar vision을 확인해보세요.''' }
 linkText = "https://github.com/hanguk0726/Avatar-Vision"
+contributingText = { eng = "Contributing", kor = "기여" }
+contributingMinimp4Text = { eng = "Feature to add an audio track on mp4 muxing", kor = "mp4 muxing에 오디오 트랙을 추가하는 기능" }
+contributingNokhwaText = { eng = "Improving the YUV to RGB decoding logic", kor = "yuv to rgb 디코딩 로직 개선" }
 experienceText = { eng = "Experience", kor = "경력" }
 togiText = { eng = "Togi", kor = "토기" }
 yeouidoText = { eng = "Yeouido, Seoul", kor = "서울 여의도" }
